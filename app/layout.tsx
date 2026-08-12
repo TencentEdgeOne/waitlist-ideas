@@ -7,9 +7,10 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Waitlist Ideas - Join the Waitlist",
+  title: "Waitlist Ideas - Join the Waitlist | EdgeOne Makers",
   description:
-    "Join our waitlist to get early access and stay updated on the latest features and updates.",
+    "Join our waitlist to get early access and stay updated on the latest features and updates. · Demo only · EdgeOne Makers",
+  keywords: "EdgeOne Makers, Demo only",
   icons: {
     icon: "/favicon.ico",
   },
